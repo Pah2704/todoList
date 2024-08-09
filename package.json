@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pah2704/todoList.git"
+  },
+  "author": "Pah2704",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pah2704/todoList/issues"
+  },
+  "homepage": "https://github.com/Pah2704/todoList#readme",
+  "description": ""
+}
